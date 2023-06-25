@@ -1,8 +1,8 @@
-# NRF2_brain_single-cell-analysis
+# NRF2 brain single cell analysis
 
 This is a repo that contains the code and data necessary to recreate the figures and analysis for the Slattery lab paper submitted to *Redox Biology* titled "Limited Expression of Nrf2 in Neurons Across the Central Nervous System". 
 
-All code and replicated figures are contained within the Jupyter Notebook in this repo.  The Python environment used for the analysis is saved in an Anaconda environment file titled 'Conda_environment.yml'.  To run the notebook, replicate this environment by installing Anaconda/Miniconda and running `conda env create --file=Conda_environment.yml`.  Then simply open the Jupyter Notebook (using the `jupyter notebook` command in a terminal) and run the notebook.
+All code and replicated figures are contained within the Jupyter Notebook in this repo.  The Python environment used for the analysis is saved in an Anaconda environment file titled 'Conda_environment.yml'.  To run the notebook, replicate this environment by installing Anaconda/Miniconda and running `conda env create --file=Conda_environment.yml`.  Then simply activate the conda environment (with `conda activate loompy`), open the Jupyter Notebook (using the `jupyter notebook` command in a terminal) and run the notebook.
 
 ---------------------------------------------------------------------------------------------------
 
