@@ -8,9 +8,9 @@ All code and replicated figures are contained within the Jupyter Notebook in thi
 
 **Raw data sources:**
 
-[Linnarsson mouse brain atlas adolescent mouse brain aggregated data]("https://storage.googleapis.com/linnarsson-lab-loom/l5_all.agg.loom")
+[Linnarsson mouse brain atlas adolescent mouse brain aggregated data](https://storage.googleapis.com/linnarsson-lab-loom/l5_all.agg.loom)
 
-[Linnarsson mouse brain atlas developmental mouse brain aggregated data]("https://storage.googleapis.com/linnarsson-lab-loom/dev_all.agg.loom")
+[Linnarsson mouse brain atlas developmental mouse brain aggregated data](https://storage.googleapis.com/linnarsson-lab-loom/dev_all.agg.loom)
 
 [Human brain UCSC CellBrowser data](https://cells.ucsc.edu/?ds=dev-brain-regions+wholebrain)
 
