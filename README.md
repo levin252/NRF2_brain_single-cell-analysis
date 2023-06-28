@@ -12,17 +12,19 @@ Requirements:
 
 **Raw data sources:**
 
-[Linnarsson mouse brain atlas adolescent mouse brain aggregated data](https://storage.googleapis.com/linnarsson-lab-loom/l5_all.agg.loom)
+[Linnarsson mouse brain atlas adolescent mouse brain aggregated scRNA-seq data](https://storage.googleapis.com/linnarsson-lab-loom/l5_all.agg.loom)
 
-[Linnarsson mouse brain atlas developmental mouse brain aggregated data](https://storage.googleapis.com/linnarsson-lab-loom/dev_all.agg.loom)
+[Linnarsson mouse brain atlas developmental mouse brain aggregated scRNA-seq data](https://storage.googleapis.com/linnarsson-lab-loom/dev_all.agg.loom)
 
-[Human brain UCSC CellBrowser data](https://cells.ucsc.edu/?ds=dev-brain-regions+wholebrain)
+[DropViz mouse brain single cell RNA-seq data](http://dropviz.org)
 
-[Human brain Alzheimer's CELLxGENE data](https://cellxgene.cziscience.com/collections/180bff9c-c8a5-4539-b13b-ddbc00d643e6)
+[Human brain UCSC CellBrowser scRNA-seq data](https://cells.ucsc.edu/?ds=dev-brain-regions+wholebrain)
 
-[Human brain Multiple Sclerosis UCSC CellBrowser data](https://cells.ucsc.edu/?ds=ms)
+[Human brain Alzheimer's CELLxGENE scRNA-seq data](https://cellxgene.cziscience.com/collections/180bff9c-c8a5-4539-b13b-ddbc00d643e6)
 
-[Human brain Autism UCSC CellBrowser data](https://autism.cells.ucsc.edu/)
+[Human brain Multiple Sclerosis UCSC CellBrowser scRNA-seq data](https://cells.ucsc.edu/?ds=ms)
+
+[Human brain Autism UCSC CellBrowser scRNA-seq data](https://autism.cells.ucsc.edu/)
 
 [Mouse brain snATAC-seq data (CATLAS)](http://catlas.org/mousebrain/#!/)
 
