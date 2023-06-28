@@ -6,7 +6,7 @@ All code and replicated figures are contained within the Jupyter Notebook in thi
 
 Requirements:
 - Linux operating system (this has only been tested on Ubuntu 20.04)
-- Anaconda/Miniconda Python environment manager installed
+- Anaconda/Miniconda Python environment manager
 
 ---------------------------------------------------------------------------------------------------
 
