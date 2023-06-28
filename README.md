@@ -4,6 +4,10 @@ This is a repo that contains the code and data necessary to recreate the figures
 
 All code and replicated figures are contained within the Jupyter Notebook in this repo.  The Python environment used for the analysis is saved in an Anaconda environment file titled 'Conda_environment.yml'.  To run the notebook, replicate this environment by installing Anaconda/Miniconda and running `conda env create --file=Conda_environment.yml`.  Then simply activate the conda environment (with `conda activate loompy`), open the Jupyter Notebook (using the `jupyter notebook` command in a terminal) and run the notebook.
 
+Requirements:
+- Linux operating system (this has only been tested on Ubuntu 20.04)
+- Anaconda/Miniconda Python environment manager installed
+
 ---------------------------------------------------------------------------------------------------
 
 **Raw data sources:**
